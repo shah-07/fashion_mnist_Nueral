@@ -1,0 +1,9 @@
+data_params:
+  data_path: "data/"
+  train_ratio: 0.8
+
+model_params:
+  lr: 0.01
+  epochs: 100
+  batch_size: 128
+  seed: 42
